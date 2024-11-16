@@ -134,8 +134,8 @@ DELETE /users/1
 ### **2. Steps to Run**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/insta-clone-api.git
-   cd insta-clone-api
+   git clone https://github.com/vermamanav005/insta_clone_v_manav_verma
+  
    ```
 2. Update `application.properties` with your MySQL credentials:
    ```properties
