@@ -156,9 +156,7 @@ DELETE /users/1
 ---
 
 ## **Technologies Used**
-- **Spring Boot**: For creating the RESTful APIs.
-- **Spring Security**: For authentication and password encryption.
-- **Hibernate (JPA)**: For interacting with the database.
+- **Spring Boot**: For creating the APIs.
 - **MySQL**: As the relational database.
 - **Maven**: For dependency management.
 
